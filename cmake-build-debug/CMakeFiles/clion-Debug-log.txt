@@ -1,0 +1,5 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Users/users/Documents/prouyecton -B /mnt/c/Users/users/Documents/prouyecton/cmake-build-debug
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+-- Configuring done (1.6s)
+-- Generating done (0.5s)
+-- Build files have been written to: /mnt/c/Users/users/Documents/prouyecton/cmake-build-debug
